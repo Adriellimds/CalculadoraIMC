@@ -1,4 +1,4 @@
-# 🧮 Calculadora de IMC - Flutter App
+# Calculadora de IMC - Flutter App
 
 Aplicativo desenvolvido em Flutter com arquitetura organizada em **Models**, **Views**, **Controllers** e **Styles**, que permite ao usuário:
 
